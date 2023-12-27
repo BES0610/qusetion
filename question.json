@@ -1,5 +1,18 @@
 [
-  { "question1": { "value": 1 } },
-  { "question2": { "value": 0 } },
-  { "question3": { "value": 1 } }
-]
+    { "question1": { "value": 1 } },
+    { "question2": { "value": 0 } },
+    { "question3": { "value": 1 } },
+    { "question4": { "value": 0 } },
+    { "question5": { "value": 1 } },
+    { "question6": { "value": 0 } },
+    { "question7": { "value": 1 } },
+    { "question8": { "value": 0 } },
+    { "question9": { "value": 1 } },
+    { "question10": { "value": 0 } },
+    { "question11": { "value": 1 } },
+    { "question12": { "value": 0 } },
+    { "question13": { "value": 1 } },
+    { "question14": { "value": 0 } },
+    { "question15": { "value": 1 } },
+    { "question16": { "value": 0 } }
+  ]
